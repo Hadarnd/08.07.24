@@ -1,6 +1,6 @@
 #start
 
-number: int = int(input("please type a number:"))
+number: int = int(input("please enter a number:"))
 
 if number % 3 == 0 and number % 5 == 0:
     print(f"{number} is Fizz Fuzz.")
