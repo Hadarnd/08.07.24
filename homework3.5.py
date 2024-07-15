@@ -1,4 +1,5 @@
 #start
+#at the beginning it printed me the 2 lines for 15 - "fizz" + "fizz fuzz" so i wrote a new progrem:
 
 number: int = int(input("please enter a number:"))
 
